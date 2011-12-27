@@ -1,7 +1,7 @@
-﻿Построение начато 28.12.2011 1:20:44.
+﻿Построение начато 28.12.2011 1:29:39.
      1>Проект "C:\SoPS\Seminar 1\Seminar 1\Seminar 1.vcxproj" в узле 2 (целевые объекты build).
      1>InitializeBuildStatus:
-         Обращение к "Debug\Seminar 1.unsuccessfulbuild".
+         Создание "Debug\Seminar 1.unsuccessfulbuild", так как было задано "AlwaysCreate".
        GenerateTargetFrameworkMonikerAttribute:
        Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
        ClCompile:
@@ -27,4 +27,4 @@
 
 Построение успешно завершено.
 
-Затраченное время: 00:00:01.55
+Затраченное время: 00:00:02.91

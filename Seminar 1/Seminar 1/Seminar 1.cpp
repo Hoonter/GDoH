@@ -1,4 +1,3 @@
-// Seminar 1.cpp: главный файл проекта.
 #include "stdafx.h"
 #include <iostream>
 #include <cmath>
