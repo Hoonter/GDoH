@@ -1,0 +1,9 @@
+C:\GDoH\My_Game\Labirint\Labirint\bin\Debug\Labirint.exe
+C:\GDoH\My_Game\Labirint\Labirint\bin\Debug\Labirint.pdb
+C:\GDoH\My_Game\Labirint\Labirint\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\GDoH\My_Game\Labirint\Labirint\obj\x86\Debug\Labirint.Form1.resources
+C:\GDoH\My_Game\Labirint\Labirint\obj\x86\Debug\Labirint.Properties.Resources.resources
+C:\GDoH\My_Game\Labirint\Labirint\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\GDoH\My_Game\Labirint\Labirint\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\GDoH\My_Game\Labirint\Labirint\obj\x86\Debug\Labirint.exe
+C:\GDoH\My_Game\Labirint\Labirint\obj\x86\Debug\Labirint.pdb
